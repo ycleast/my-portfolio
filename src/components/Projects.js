@@ -4,44 +4,23 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            title: "Site E-commerce",
-            description: "Application web complète de commerce électronique avec panier d'achat, système de paiement et gestion des utilisateurs.",
-            technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-            image: "https://via.placeholder.com/400x250/3498db/ffffff?text=E-commerce",
-            githubLink: "https://github.com/ycleast/ecommerce-project",
-            liveLink: "https://votre-ecommerce-demo.com",
+            title: "T-shirt Personnalisable",
+            description: "Application web complète de commerce maillots personnalisable avec panier d'achat.",
+            technologies: ["HTML5", "CSS3", "JavaScript"],
+            image: "images/t-shirt-personnalisable.png",
+            githubLink: "https://github.com/ycleast/T-shirt-Personnalisable",
+            liveLink: "https://t-shirt-personnalisable.vercel.app/",
             featured: true
-        },
-        {
-            id: 2,
-            title: "Application Météo",
-            description: "Application météo responsive utilisant une API externe pour afficher les prévisions en temps réel avec géolocalisation.",
-            technologies: ["JavaScript", "CSS3", "API REST", "Geolocation"],
-            image: "https://via.placeholder.com/400x250/e74c3c/ffffff?text=Weather+App",
-            githubLink: "https://github.com/ycleast/weather-app",
-            liveLink: "https://votre-weather-app.com",
-            featured: false
         },
         {
             id: 3,
-            title: "Gestionnaire de Tâches",
+            title: "Hugging Face",
             description: "Application de gestion de tâches avec drag & drop, catégories personnalisées et synchronisation cloud.",
-            technologies: ["React", "Firebase", "Material-UI", "Drag & Drop"],
-            image: "https://via.placeholder.com/400x250/9b59b6/ffffff?text=Task+Manager",
-            githubLink: "https://github.com/ycleast/task-manager",
-            liveLink: "https://votre-task-manager.com",
+            technologies: ["HTML", "CSS"],
+            image: "images/huggingface.png",
+            githubLink: "https://github.com/ycleast/Huggingface",
             featured: true
         },
-        {
-            id: 4,
-            title: "Blog Personnel",
-            description: "Blog responsive avec système de commentaires, recherche avancée et interface d'administration.",
-            technologies: ["HTML5", "CSS3", "PHP", "MySQL"],
-            image: "https://via.placeholder.com/400x250/f39c12/ffffff?text=Personal+Blog",
-            githubLink: "https://github.com/ycleast/personal-blog",
-            liveLink: "https://votre-blog.com",
-            featured: false
-        }
     ];
 
     return (
