@@ -8,7 +8,7 @@ const Projects = () => {
             description: "Application web complète de commerce électronique avec panier d'achat, système de paiement et gestion des utilisateurs.",
             technologies: ["React", "Node.js", "MongoDB", "Stripe"],
             image: "https://via.placeholder.com/400x250/3498db/ffffff?text=E-commerce",
-            githubLink: "https://github.com/votre-username/ecommerce-project",
+            githubLink: "https://github.com/ycleast/ecommerce-project",
             liveLink: "https://votre-ecommerce-demo.com",
             featured: true
         },
@@ -18,7 +18,7 @@ const Projects = () => {
             description: "Application météo responsive utilisant une API externe pour afficher les prévisions en temps réel avec géolocalisation.",
             technologies: ["JavaScript", "CSS3", "API REST", "Geolocation"],
             image: "https://via.placeholder.com/400x250/e74c3c/ffffff?text=Weather+App",
-            githubLink: "https://github.com/votre-username/weather-app",
+            githubLink: "https://github.com/ycleast/weather-app",
             liveLink: "https://votre-weather-app.com",
             featured: false
         },
@@ -28,7 +28,7 @@ const Projects = () => {
             description: "Application de gestion de tâches avec drag & drop, catégories personnalisées et synchronisation cloud.",
             technologies: ["React", "Firebase", "Material-UI", "Drag & Drop"],
             image: "https://via.placeholder.com/400x250/9b59b6/ffffff?text=Task+Manager",
-            githubLink: "https://github.com/votre-username/task-manager",
+            githubLink: "https://github.com/ycleast/task-manager",
             liveLink: "https://votre-task-manager.com",
             featured: true
         },
@@ -38,7 +38,7 @@ const Projects = () => {
             description: "Blog responsive avec système de commentaires, recherche avancée et interface d'administration.",
             technologies: ["HTML5", "CSS3", "PHP", "MySQL"],
             image: "https://via.placeholder.com/400x250/f39c12/ffffff?text=Personal+Blog",
-            githubLink: "https://github.com/votre-username/personal-blog",
+            githubLink: "https://github.com/ycleast/personal-blog",
             liveLink: "https://votre-blog.com",
             featured: false
         }

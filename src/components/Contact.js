@@ -38,7 +38,7 @@ const Contact = () => {
                             <div className="contact-icon">📧</div>
                             <div className="contact-details">
                                 <h4>Email</h4>
-                                <p>votre.email@example.com</p>
+                                <p>youdsoncleast2702@gmail.com</p>
                             </div>
                         </div>
 
@@ -46,7 +46,7 @@ const Contact = () => {
                             <div className="contact-icon">📱</div>
                             <div className="contact-details">
                                 <h4>Téléphone</h4>
-                                <p>+33 6 12 34 56 78</p>
+                                <p>+509 42378459</p>
                             </div>
                         </div>
 
@@ -54,20 +54,20 @@ const Contact = () => {
                             <div className="contact-icon">📍</div>
                             <div className="contact-details">
                                 <h4>Localisation</h4>
-                                <p>France</p>
+                                <p>Haiti</p>
                             </div>
                         </div>
 
                         <div className="social-links">
                             <h4>Suivez-moi</h4>
                             <div className="social-icons">
-                                <a href="https://github.com/votre-username" target="_blank" rel="noopener noreferrer">
+                                <a href="https://github.com/ycleast" target="_blank" rel="noopener noreferrer">
                                     GitHub
                                 </a>
-                                <a href="https://linkedin.com/in/votre-profil" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.linkedin.com/in/youdson-cleast-34a75a31b/" target="_blank" rel="noopener noreferrer">
                                     LinkedIn
                                 </a>
-                                <a href="https://twitter.com/votre-username" target="_blank" rel="noopener noreferrer">
+                                <a href="https://x.com/YCleast" target="_blank" rel="noopener noreferrer">
                                     Twitter
                                 </a>
                             </div>
