@@ -4,9 +4,9 @@ const About = () => {
     return (
         <section id="about" className="about">
             <div className="container">
-                <h2 className="section-title">À propos de moi</h2>
+                <h2 className="section-title animate-on-scroll">À propos de moi</h2>
                 <div className="about-content">
-                    <div className="about-text">
+                    <div className="about-text animate-on-scroll delay-1">
                         <p>
                             Je suis un étudiant passionné en informatique, spécialisé dans le développement web.
                             Mon parcours m'a permis d'acquérir une solide base en programmation et une
@@ -23,7 +23,7 @@ const About = () => {
                             avec la communauté des développeurs.
                         </p>
                     </div>
-                    <div className="about-stats">
+                    <div className="about-stats animate-on-scroll delay-2">
                         <div className="stat">
                             <h3>2+</h3>
                             <p>Années d'études</p>

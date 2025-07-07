@@ -6,8 +6,11 @@ import About from './components/About';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import useScrollAnimation from './hooks/useScrollAnimation';
 
 function App() {
+  useScrollAnimation(); // Active les animations de défilement
+
   return (
     <div className="App">
       <Header />
